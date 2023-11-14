@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hola, I'm Suraj MS 👋
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 <!--
 **suraj-ms/suraj-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
