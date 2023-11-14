@@ -1,6 +1,6 @@
-<div align="center">
-  # Hola, I'm Suraj MS 👋
-</div>
+<h1 align="center">
+   Hola, I'm Suraj MS 👋
+</h1>
 </hr>
 
 <!--
