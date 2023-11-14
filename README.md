@@ -1,7 +1,7 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suraj MS</h1>
 
 ### :man_technologist: About Me 
-- 👩🏻‍💻 Pronouns: She/Her
+- 🤵 Pronouns: He/His
 - 💼 I’m currently working as a <strong>System Engineer</strong> at [TCS](https://www.tcs.com/).
 
 ### :hammer_and_wrench: Languages and Tools 
