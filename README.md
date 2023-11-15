@@ -2,9 +2,7 @@
 
 ### :man_technologist: About Me 
 - 🤵 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>System Engineer</strong> at [<video width="500px" height="500px" controls="controls">
-        <source src="Untitled design.mp4" type="video/mp4" />
-       </video>](https://www.tcs.com/).
+- 💼 I’m currently working as a <strong>System Engineer</strong> at [tcs](https://www.tcs.com/).
 
 
 ### Connect with me on
