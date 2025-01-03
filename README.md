@@ -36,6 +36,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="PostMan" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gemini/gemini-ar21.svg" title="Gemini" **alt="Gemini" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg" title="Google Maps" **alt="Google Maps" width="40" height="40"/>
+  <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/a87033cb-e69c-4615-b5e0-4ac99c73b9ba.svg" title="Gemini" **alt="Gemini" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="ExpressJS" **alt="ExpressJS" width="40" height="40"/>
 
 </div>  
