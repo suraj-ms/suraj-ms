@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-#### :man_technologist: About Me 
+#### 🕺 About Me 
 - 🤵 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>System Engineer</strong> at [Tata Consultancy Services - TCS](https://www.tcs.com/).
 - 🏢 I'm looking for a Frontend/Fullstack[Mern] 
