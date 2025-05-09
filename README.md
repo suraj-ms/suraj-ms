@@ -6,6 +6,7 @@
 - 🤵 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>System Engineer</strong> at [Tata Consultancy Services - TCS](https://www.tcs.com/).
 - 🏢 I'm looking for a Frontend/Fullstack[Mern] 
+- 🌐 Check my website [My Portfolio Website](https://my-portfolio-8vjp.onrender.com)
 
 
 #### Connect with me 
@@ -21,11 +22,7 @@
 <a target="_blank" href="https://leetcode.com/u/SURAJ_M_S/"
 ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" height="20" ></img></a>
 &emsp;
-<p style="color: rgb(252, 252, 252)!important; background-color: rgb(205, 218, 64); padding: 5px; text-decoration: none; font-size: 16px; border-radius:5px; font-weight:bold; width:fit-content!important">
-  <a href="https://my-portfolio-8vjp.onrender.com/" style="color: inherit; text-decoration: none;">
-    Website
-  </a>
-</p>
+
 
 <br>
 </p>
