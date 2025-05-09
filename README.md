@@ -10,16 +10,16 @@
 
 #### Connect with me 
 <p>	
-<a target="_blank" href="https://www.linkedin.com/in/suraj-m-s-757540151/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/suraj-m-s-757540151/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"  width="30" height="30"></img></a>
 &emsp;
 <a target="_blank" href="mailto:surajmshivakumar@gmail.com"
-><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"></img></a>
+><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="35" height="35" ></img></a>
 &emsp;
 <a target="_blank" href="https://www.hackerrank.com/profile/SURAJ_M_S"
-><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"></img></a>
+><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="20" height="20" ></img></a>
 &emsp;
 <a target="_blank" href="https://leetcode.com/u/SURAJ_M_S/"
-><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></img></a>
+><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" height="20" ></img></a>
 &emsp;
 <a href="https://my-portfolio-8vjp.onrender.com/" style="color: white; background-color: rgb(29, 194, 139); padding: 5px; text-decoration: none; font-size: 16px;">
   Website
@@ -112,7 +112,7 @@
                 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-ms" alt="suraj-ms" /></a> </p>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="surajmshivf" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/surajmshivf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>  
 
