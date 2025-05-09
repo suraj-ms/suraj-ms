@@ -1,16 +1,25 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suraj MS</h1>
 
-### :man_technologist: About Me 
+### Software Engineer
+
+#### :man_technologist: About Me 
 - 🤵 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>System Engineer</strong> at [tcs](https://www.tcs.com/).
+- 💼 I’m currently working as a <strong>System Engineer</strong> at [Tata Consultancy Services - TCS](https://www.tcs.com/).
+- 🏢 I'm looking for a Frontend/Fullstack[Mern] 
 
 
-### Connect with me on
+#### Connect with me 
 <p>	
-<a target="_blank" href="https://www.linkedin.com/in/suraj-m-s-757540151/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/suraj-m-s-757540151/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></img></a>
 &emsp;
 <a target="_blank" href="mailto:surajmshivakumar@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"></img></a>
+&emsp;
+<a target="_blank" href="https://www.hackerrank.com/profile/SURAJ_M_S"
+><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"></img></a>
+&emsp;
+<a target="_blank" href="https://leetcode.com/u/SURAJ_M_S/"
+><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></img></a>
 &emsp;
 <a href="https://my-portfolio-8vjp.onrender.com/" style="color: white; background-color: rgb(29, 194, 139); padding: 5px; text-decoration: none; font-size: 16px;">
   Website
@@ -20,41 +29,27 @@
 
 <hr/>
 
-### :hammer_and_wrench: Languages and Tools 
+#### :hammer_and_wrench: Languages and Tools 
 <div>
   <p align="left">
-         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                alt="android" width="40" height="40" /> </a> <a href="https://angular.io" target="_blank"
-            rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"
-                width="40" height="40" /> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-                alt="aws" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-                alt="azure" width="40" height="40" /> </a> <a href="https://babeljs.io/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel"
+                alt="aws" width="40" height="40" /> </a> <a href="https://babeljs.io/" target="_blank"
+            rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" alt="babel"
                 width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                width="40" height="40" /> </a> <a
-            href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+                src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
+                alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-                height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+                alt="css3" width="40" height="40" /> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
                 alt="docker" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
             rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+                src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"
                 alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
+            rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40"
                 height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
+                src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40"
                 height="40" /> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
                 height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
@@ -75,9 +70,7 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" /> </a> <a href="https://www.jenkins.io" target="_blank"
             rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"
-                width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-                height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
+                width="40" height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
                 height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -90,7 +83,7 @@
                 alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                 alt="mysql" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40"
+            rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40"
                 height="40" /> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
                 alt="nginx" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"
@@ -99,10 +92,7 @@
                 alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
+                alt="photoshop" width="40" height="40" /> </a>  <a href="https://postman.com" target="_blank"
             rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
                 width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -116,11 +106,13 @@
                 alt="redux" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
             rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
                 alt="tailwind" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
-            target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
+            target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" alt="xd"
                 width="40" height="40" /> </a> </p>
 
                 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-ms" alt="suraj-ms" /></a> </p>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="surajmshivf" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 </div>  
 
